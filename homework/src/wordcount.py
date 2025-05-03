@@ -1,4 +1,4 @@
-
+# obtain a list of files in the input directory
 import sys
 
 from ._internals.count_words import count_words
